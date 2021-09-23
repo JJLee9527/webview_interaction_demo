@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{371:function(n,e,t){"use strict";t.r(e);var l=t(12),component=Object(l.a)({},(function(){var n=this,e=n.$createElement;return(n._self._c||e)("div",[n._v("很抱歉，您不是全聯的正職員工，無法參與當團爸團媽")])}),[],!1,null,null,null);e.default=component.exports}}]);
